@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sara! Welcome to my sandbox where I will build a lot of demos. Most of them will be build using modern technolo
 
 <!--
 **skauff/skauff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
