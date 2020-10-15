@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Sara! Welcome to my sandbox where I will build a lot of demos. Most of them will be build using modern technologies.
+![Alt Text](https://i.pinimg.com/originals/ba/a2/71/baa271869627560113c56f0453a72f0f.gif)
+
+
+### Hi there 👋 I'm Sara! Welcome to my sandbox where I will build lots of new projects using new technologies.
 
 <!--
 **skauff/skauff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
