@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/ba/a2/71/baa271869627560113c56f0453a72f0f.gif)
+![Alt Text](https://i2.wp.com/media1.giphy.com/media/IPqbZhStIeZdS/giphy.gif)
 
 
 ### Hi there 👋 I'm Sara! Welcome to my sandbox where I will build lots of new projects using new technologies.
