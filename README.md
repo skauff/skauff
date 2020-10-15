@@ -2,7 +2,7 @@
 
 <br />
 
-### Hi there 👋 I'm Sara! Welcome to my sandbox. I'm a Software Engineer & Full Stack developer who is passionate about AI, ML, Robotics, Web Development, Cloud computing architecture and Hardware. I'm constantly learning new languages and creating my own personal projects.
+### Hi there 👋 I'm Sara! Welcome to my sandbox. I'm a Software/Hardware Engineer & Full Stack developer who is passionate about AI, ML, Robotics, Web Development, Cloud computing architecture. I'm constantly learning new languages and creating my own personal projects.
 
 
 <!--
