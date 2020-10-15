@@ -1,7 +1,9 @@
 ![Alt Text](https://i2.wp.com/media1.giphy.com/media/IPqbZhStIeZdS/giphy.gif)
 
+<br />
 
-### Hi there 👋 I'm Sara! Welcome to my sandbox where I will build lots of new projects using new technologies.
+### Hi there 👋 I'm Sara! Welcome to my sandbox. I'm a Software Engineer & Full Stack developer who is passionate about AI, ML, Robotics, Web Development, Cloud computing architecture. I'm constantly learning new languages and creating my own personal projects.
+
 
 <!--
 **skauff/skauff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
